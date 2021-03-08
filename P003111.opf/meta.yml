@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W2PD17619
   title: 西藏的寺与僧（༡༩༤༠年代）
   author: ''
-  volumes: {}
+  volumes:
+    9c80e562967a4fec9928d256f4d503e2:
+      image_group_id: I4PD4305
+      title: ''
+      volume_number: 1
+      total_pages: 180
