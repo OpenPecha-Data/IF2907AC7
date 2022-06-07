@@ -1,0 +1,27 @@
+id: IF2907AC7
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-27T16:19:25+00:00'
+last_modified: '2022-06-07T17:40:04.855915+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W2PD17619
+  title: 西藏的寺与僧（༡༩༤༠年代）
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessRestrictedTemporarily
+  restrictedInChina: false
+  base:
+    '9049':
+      image_group_id: I4PD4305
+      title: ''
+      total_pages: 180
+      order: 1
+      base_file: 9049.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
